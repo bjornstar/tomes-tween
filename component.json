@@ -1,6 +1,6 @@
 {
-  "name": "tween",
-  "repo": "component/tween",
+  "name": "tomes-tween",
+  "repo": "bjornstar/tomes-tween",
   "description": "Motion tween engine using 'ease'",
   "version": "0.1.0",
   "keywords": ["tween", "tweening", "animation"],
